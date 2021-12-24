@@ -1,0 +1,32 @@
+{
+  "name": "viv-penguin-backend",
+  "version": "1.0.0",
+  "description": "backend for viv penguin",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "^4.3.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "http-errors": "^2.0.0",
+    "jade": "^1.11.0",
+    "mongoose": "^6.1.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithlwill/viv-penguin-backend.git"
+  },
+  "author": "Keith Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithlwill/viv-penguin-backend/issues"
+  },
+  "homepage": "https://github.com/keithlwill/viv-penguin-backend#readme"
+}
